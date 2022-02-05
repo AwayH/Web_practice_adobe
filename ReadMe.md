@@ -1,4 +1,5 @@
-## head
+## &lt;head&gt; ... &lt;/head&gt;
+
 ### description
 Adobe 正在透過數位體驗改變世界。我們協助客戶建立、提供及最佳化內容和應用程式。
 
@@ -8,7 +9,7 @@ Adobe：創意、行銷和文件管理解決方案
 ### og:image
 https://www.adobe.com/thumb.800.480.png
 
----
+## &lt;body&gt; ... &lt;/body&gt;
 
 #### 最佳的 PDF 工具現在更加緊密連結
 
